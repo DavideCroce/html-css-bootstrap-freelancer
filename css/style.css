@@ -55,17 +55,9 @@ header{
     color: white;
 }
 
-/*contacts*/
-
-#contact{
-    height: 500px;
-    background-color: rgb(224, 223, 223);
-}
-
 /*location and socials*/
 
 #location-socials{
-    height: 400px;
     background-color: #3a546d;
 }
 
@@ -120,5 +112,44 @@ ul{
     margin-top: 50px;
 }
 
-.fa-download
+.form-control{
+    background: none;
+    border: none;
+    border-bottom: solid 1px grey;
+    border-radius: 0;
+}
 
+
+.form-label{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.btn-snd{
+    border: none;
+    border-radius: 5px;
+    background-color: #1abc9c;
+    color: white;
+    font-size: 20px;
+    padding: 10px 20px;
+}
+
+
+.socials .fab{
+    color: white;
+    border: solid 1px white;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+.location-socials{
+    color: white;
+}
+
+a{
+    color: #1abc9c;
+}
+
+.location-socials p{
+    font-size: 17px;
+}
