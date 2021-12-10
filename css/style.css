@@ -10,9 +10,9 @@ header{
 
 /*presentation*/
 
-.presentation{
-    height: 400px;
+.container-fluid{
     background-color: #1abc9c;
+    color: white;
 }
 
 /*portfolio and cards*/
@@ -85,7 +85,27 @@ ul{
     margin: 0 15px;
 }
 
+.profile-pic h1{
+    font-size: 50px;
+}
 
-.profile-pic{
-    transform: scale(0.1);
+.fa-star{
+    font-size: 30px;
+}
+
+.profile-pic p{
+    font-size: 22px;
+}
+
+.card{
+    border: none;
+    margin-top: 20px;
+}
+
+.br10{
+    border-radius: 10px;
+}
+
+.pfolio{
+    font-size: 50px;
 }
