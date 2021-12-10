@@ -84,3 +84,8 @@ ul{
     display: inline;
     margin: 0 15px;
 }
+
+
+.profile-pic{
+    transform: scale(0.1);
+}
