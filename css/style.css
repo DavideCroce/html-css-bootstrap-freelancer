@@ -153,3 +153,8 @@ a{
 .location-socials p{
     font-size: 17px;
 }
+
+.copyright p{
+    font-size: 10px;
+    color: white;
+}
